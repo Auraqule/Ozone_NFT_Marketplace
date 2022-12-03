@@ -23,7 +23,7 @@
 ### 2. Install Dependencies:
 
 ```
-$ cd nft_marketplace
+$ cd ozone_nft_marketplace
 $ npm install
 ```
 
